@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/jordanonly/static/css/main.6a157d5f.css",
+    "main.js": "/jordanonly/static/js/main.24ecc0f8.js",
+    "index.html": "/jordanonly/index.html",
+    "main.6a157d5f.css.map": "/jordanonly/static/css/main.6a157d5f.css.map",
+    "main.24ecc0f8.js.map": "/jordanonly/static/js/main.24ecc0f8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a157d5f.css",
+    "static/js/main.24ecc0f8.js"
+  ]
+}
