@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/jordanonly/static/css/main.6a157d5f.css",
-    "main.js": "/jordanonly/static/js/main.b0ca181d.js",
+    "main.js": "/jordanonly/static/js/main.bc646fba.js",
     "index.html": "/jordanonly/index.html",
     "main.6a157d5f.css.map": "/jordanonly/static/css/main.6a157d5f.css.map",
-    "main.b0ca181d.js.map": "/jordanonly/static/js/main.b0ca181d.js.map"
+    "main.bc646fba.js.map": "/jordanonly/static/js/main.bc646fba.js.map"
   },
   "entrypoints": [
     "static/css/main.6a157d5f.css",
-    "static/js/main.b0ca181d.js"
+    "static/js/main.bc646fba.js"
   ]
 }
